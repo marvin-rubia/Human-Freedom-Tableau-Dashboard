@@ -14,7 +14,7 @@ I want to raise awareness among people about the inequality in this world. Coerc
 Some people were unlucky to be born in a country that is controlling in many aspects of life. Data visualization and storytelling help us ask why.
 
 ## Interact with my dashboard
-Check your country’s Human Freedom score by interacting with my Tableau Public dashboard [here](https://public.tableau.com/app/profile/marvin.rubia/viz/HumanFreedom_16921091160550/HumanFreedomDashboard?publish=yes).
+Check your country’s Human Freedom score by interacting with my Tableau Public dashboard [here](https://public.tableau.com/app/profile/marvin.rubia/viz/HumanFreedom_16921091160550/HumanFreedomDashboard?publish=yes). Note: It is best viewed via laptop or desktop in full-screen window. 
 
 ## I wrote a blog about this
 Read my blog for my thought process of designing the dashboard and some insights about our planet's human freedom condition here: [Creating a Tableau Dashboard for Human Freedom Index](https://marvinrubia.medium.com/creating-a-tableau-dashboard-for-human-freedom-index-a71873e62016).
