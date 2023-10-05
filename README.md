@@ -18,3 +18,9 @@ Check your country’s Human Freedom score by interacting with my Tableau Public
 
 ## I wrote a blog about this
 Read my blog for my thought process of designing the dashboard and some insights about our planet's human freedom condition here: [Creating a Tableau Dashboard for Human Freedom Index](https://marvinrubia.medium.com/creating-a-tableau-dashboard-for-human-freedom-index-a71873e62016).
+
+## Here's an animation for the Top 25 countries from 2000 to 2020
+
+![](https://github.com/marvin-rubia/Human-Freedom-Tableau-Dashboard/blob/main/HFI-Animation.gif)
+
+NOTE: I coded the animation in Google Colab using the `bar_chart_race` module. 
