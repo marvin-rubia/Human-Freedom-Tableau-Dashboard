@@ -23,4 +23,4 @@ Read my blog for my thought process of designing the dashboard and some insights
 
 ![](https://github.com/marvin-rubia/Human-Freedom-Tableau-Dashboard/blob/main/HFI-Animation.gif)
 
-NOTE: I coded this animated visualization in Google Colab using the `bar_chart_race` module. 
+NOTE: I coded this animated visualization in Google Colab using the `bar_chart_race` library. 
