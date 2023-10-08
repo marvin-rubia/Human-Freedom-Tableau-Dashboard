@@ -21,6 +21,6 @@ Read my blog for my thought process of designing the dashboard and some insights
 
 ## Here's an animation for the Top 25 countries from 2000 to 2020
 
-![](https://github.com/marvin-rubia/Human-Freedom-Tableau-Dashboard/blob/main/HFI-Animation.gif)
+![](https://github.com/marvin-rubia/Human-Freedom-Tableau-Dashboard/blob/main/bcr_HFI.gif)
 
 NOTE: I coded this animated visualization in Google Colab using the `bar_chart_race` library. 
