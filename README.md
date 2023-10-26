@@ -23,4 +23,4 @@ Read my blog for my thought process of designing the dashboard and some insights
 
 ![](https://github.com/marvin-rubia/Human-Freedom-Tableau-Dashboard/blob/main/bcr_HFI.gif)
 
-NOTE: I coded this animated visualization in Google Colab using the `bar_chart_race` library. 
+NOTE: I coded this animated visualization in Google Colab using the `bar_chart_race` library. I wrote a blog on how to create this animation here: [Racing Bar Chart Visualization: Countries with the Most Freedom, 2000–2020](https://python.plainenglish.io/racing-bar-chart-visualization-countries-with-the-most-freedom-e5d81506838a).
